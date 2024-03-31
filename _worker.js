@@ -1,6 +1,6 @@
 const mytoken = '123'; 
 const MainData = ``;
-const urls = ['https://allsub.king361.cf'];
+const urls = ['https://allsub.king361.cf']; //base64 url
 const subconverter = "back.889876.xyz"; 
 const subconfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"; 
 
